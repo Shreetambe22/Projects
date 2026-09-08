@@ -1,5 +1,3 @@
-Here is a complete, interactive, and beautifully formatted template for your README.md file. It thoroughly details your data analysis process, structural design, and insights derived from the bike sales dataset.
-
 🚲 Bike Sales Data Analysis Project
 Welcome to the Bike Sales Excel Project repository! This project explores customer demographics and purchasing behaviors to understand what drives bicycle purchases using advanced Excel techniques, data cleaning, pivot tables, and an interactive dashboard.
 
