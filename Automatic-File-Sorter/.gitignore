@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+sorting_log.txt
+venv/
+.venv/
+.idea/
+.vscode/
+*.egg-info/

@@ -1,0 +1,57 @@
+2026-07-02 17:47:49 | INFO    | Watching folder: D:\All info scans\Krushna
+2026-07-02 17:47:50 | INFO    | ========================================
+2026-07-02 17:47:50 | INFO    |           FILE SORTING SUMMARY
+2026-07-02 17:47:50 | INFO    | ========================================
+2026-07-02 17:47:50 | INFO    | Total files scanned : 0
+2026-07-02 17:47:50 | INFO    | Skipped files        : 0
+2026-07-02 17:47:50 | INFO    | ========================================
+2026-07-02 17:47:50 | INFO    | Live monitoring started. Press Ctrl+C to stop.
+2026-07-02 17:49:20 | INFO    | Watching folder: D:\All info scans\Krushna
+2026-07-02 17:49:20 | INFO    | ========================================
+2026-07-02 17:49:20 | INFO    |           FILE SORTING SUMMARY
+2026-07-02 17:49:20 | INFO    | ========================================
+2026-07-02 17:49:20 | INFO    | Total files scanned : 0
+2026-07-02 17:49:20 | INFO    | Skipped files        : 0
+2026-07-02 17:49:20 | INFO    | ========================================
+2026-07-02 17:49:20 | INFO    | Live monitoring started. Press Ctrl+C to stop.
+2026-07-02 17:49:53 | INFO    | Moved: New Plain Text.txt -> Text Files/
+2026-07-02 17:59:43 | INFO    | Watching folder: D:\All info scans\Krushna
+2026-07-02 17:59:43 | INFO    | ========================================
+2026-07-02 17:59:43 | INFO    |           FILE SORTING SUMMARY
+2026-07-02 17:59:43 | INFO    | ========================================
+2026-07-02 17:59:43 | INFO    | Total files scanned : 0
+2026-07-02 17:59:43 | INFO    | Skipped files        : 0
+2026-07-02 17:59:43 | INFO    | ========================================
+2026-07-02 17:59:43 | INFO    | Live monitoring started. Press Ctrl+C to stop.
+2026-07-02 18:00:01 | INFO    | Moved: Shreekrushna Data Analytic Intern resume .pdf -> PDF Files/
+2026-07-02 18:00:01 | INFO    | Moved: Shreekrushna Data Analytic Intern resume .pdf -> PDF Files/
+2026-07-02 18:00:14 | INFO    | Renamed & Moved: Shreekrushna Data Analytic Intern resume .pdf -> PDF Files/Shreekrushna Data Analytic Intern resume  (1).pdf
+2026-07-02 18:00:14 | ERROR   | Failed to move Shreekrushna Data Analytic Intern resume .pdf: [WinError 2] The system cannot find the file specified
+2026-07-02 18:02:40 | INFO    | Watching folder: D:\All info scans\Krushna
+2026-07-02 18:02:40 | INFO    | ========================================
+2026-07-02 18:02:40 | INFO    |           FILE SORTING SUMMARY
+2026-07-02 18:02:40 | INFO    | ========================================
+2026-07-02 18:02:40 | INFO    | Total files scanned : 0
+2026-07-02 18:02:40 | INFO    | Skipped files        : 0
+2026-07-02 18:02:40 | INFO    | ========================================
+2026-07-02 18:02:40 | INFO    | Live monitoring started. Press Ctrl+C to stop.
+2026-07-02 18:04:35 | INFO    | Moved: Bonafide.png -> Images/
+2026-07-02 18:04:35 | WARNING | Skipped (still being written): Bonafide.png
+2026-07-02 18:04:35 | WARNING | Skipped (still being written): Bonafide.png
+2026-07-02 18:06:14 | INFO    | Moved: New Plain Text.txt -> Text Files/
+2026-07-02 18:06:14 | ERROR   | Failed to move New Plain Text.txt: [WinError 2] The system cannot find the file specified
+2026-07-02 18:06:14 | ERROR   | Failed to move New Plain Text.txt: [WinError 2] The system cannot find the file specified
+2026-07-02 18:07:01 | INFO    | Moved: New Plain Text.txt -> Text Files/
+2026-07-02 18:07:01 | ERROR   | Failed to move New Plain Text.txt: [WinError 2] The system cannot find the file specified
+2026-07-02 18:07:01 | INFO    | Moved: New Plain Text.txt -> Text Files/
+2026-07-02 18:08:00 | INFO    | Watching folder: D:\All info scans\Krushna
+2026-07-02 18:08:00 | INFO    | ========================================
+2026-07-02 18:08:00 | INFO    |           FILE SORTING SUMMARY
+2026-07-02 18:08:00 | INFO    | ========================================
+2026-07-02 18:08:00 | INFO    | Total files scanned : 0
+2026-07-02 18:08:00 | INFO    | Skipped files        : 0
+2026-07-02 18:08:00 | INFO    | ========================================
+2026-07-02 18:08:00 | INFO    | Live monitoring started. Press Ctrl+C to stop.
+2026-07-02 18:09:04 | INFO    | Moved: New Plain Text.txt -> Text Files/
+2026-07-02 18:09:04 | WARNING | Skipped (still being written): New Plain Text.txt
+2026-07-02 18:09:04 | ERROR   | Failed to move New Plain Text.txt: [WinError 2] The system cannot find the file specified
