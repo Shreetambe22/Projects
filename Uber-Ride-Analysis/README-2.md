@@ -3,6 +3,8 @@
 A portfolio-ready project covering the full analyst toolkit: **Python (Pandas, NumPy,
 Matplotlib, SciPy), SQL, Excel, Power BI (DAX), and Tableau.**
 
+**Author:** Krupa (GitHub: [@techwdkrupa](https://github.com/techwdkrupa)) | Username: kruparb
+
 ---
 
 ## 📁 Project Structure
@@ -86,3 +88,11 @@ uses the same 18 column names, so the rest of the project keeps working.
 - Add a driver-supply dataset to analyze supply-demand gaps by zone/hour.
 - Add a `RandomForestRegressor` (scikit-learn) to predict fare or cancellation
   probability as a stretch goal.
+
+---
+
+## 👤 Author
+
+**Krupa** ([@techwdkrupa](https://github.com/techwdkrupa))
+GitHub username: `kruparb`
+
